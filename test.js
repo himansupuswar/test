@@ -9,3 +9,4 @@ console.log(q.search);
 var qdata=q.query;
 console.log(qdata.month);
 console.log('New Text');
+console.log('New Text');
